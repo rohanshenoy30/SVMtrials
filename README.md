@@ -18,6 +18,3 @@ Experimenting with the different types of kernels on an SVM on the iris dataset.
 | RBF (Gaussian) | exp(−γ‖x − x′‖²)                | ✅✅                   | Most general-purpose, nonlinear datasets             |
 | Sigmoid        | tanh(αxᵀx′ + c)                  | ✅                     | Experimental; neural network-like behavior           |
 
-## Screenshot
-
-![SVM Kernel Types](screenshots/svm-kernel-graph.png)
